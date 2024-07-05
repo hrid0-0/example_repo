@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("Hello, git user!\n");
+  printf("Hello, I am learning how to use git!\n");
   return 1;
 }
